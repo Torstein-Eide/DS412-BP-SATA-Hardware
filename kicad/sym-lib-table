@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DS412-BP-SATA")(type "KiCad")(uri "${KIPRJMOD}/lib/DS412-BP-SATA.kicad_sym")(options "")(descr ""))
+)

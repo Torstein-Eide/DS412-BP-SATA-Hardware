@@ -1,0 +1,17 @@
+# KiCad per-user and generated files
+*.kicad_prl
+fp-info-cache
+*-backups/
+_autosave-*
+~*.lck
+*.bak
+*-bak
+\#auto_saved_files#
+
+# Fabrication output (attach to releases instead)
+gerbers/
+production/
+*.zip
+
+# Third-party datasheets are not redistributed
+*.pdf
